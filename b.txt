@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is modified file
+=======
+This is again modified
+>>>>>>> 824b03a692b5cbb9938e2955cb71576369871091
